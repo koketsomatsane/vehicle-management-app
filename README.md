@@ -45,12 +45,12 @@ Follow these steps to run the project locally on your machine.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com
+   git clone https://github.com/koketsomatsane/vehicle-management-app.git
    ```
 
 2. **Navigate to the project folder**
    ```bash
-   cd apartment-info
+   cd vehicle-management-app
    ```
 
 3. **Install dependencies**
